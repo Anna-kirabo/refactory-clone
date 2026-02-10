@@ -1,0 +1,99 @@
+.partner-btn {
+  background-color: #6b2d8f;
+  /* color: white; */
+  padding: 15px 30px;
+  border: none;
+  border-radius: 8px;
+}
+
+
+.programs-btn {
+  background-color: #c0ff33;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 8px;
+}
+
+.hire-btn {
+background-color: white;
+border: none;
+padding: 15px 30px;
+border-radius: 8px;
+color: purple;
+}
+
+.logo{
+  color: #6b2d8f;
+}
+
+header {
+  color: white; 
+}
+
+.nav-links {
+  color: black;
+  text-decoration: none; 
+  font-style: mp;
+}
+
+.horizontal-list-flex{
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  gap: 20px;
+}
+.button-link {
+  text-decoration: none;
+  color: white;
+  display: flex;
+  justify-content: center;
+
+}
+.hero-section{
+    text-align: center;
+}
+.hero-section {
+  text-align: center;
+  height: 600px;
+  background-image: url("hero\ section.jpg");
+  
+}
+.hero-heading {
+  font-size: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  
+}
+.hero-p {
+  font-size: 26px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.search-btn{
+  border-radius: 20px;
+  border: none;
+  background-color: #c6c628;
+}
+.box1{
+  width: 50%;
+  flex: 1;
+}
+
+.box2{
+  width: 50%;
+}
+.container{
+  display:flex ;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  gap: 5rem;
+  padding: 65px;
+  display: flex;
+  
+}
+
+
+
